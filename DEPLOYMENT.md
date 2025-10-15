@@ -29,7 +29,7 @@ To make changes to the website:
 
 ## Contact Information Included
 
-- **Phone:** 989-318-1350
+- **Phone:** 989/318/1350
 - **Address:** 506 S Mountain St, Bay City, MI
 - **CashApp:** $j4jllc
 - **PayPal:** justice4john initiative llc
